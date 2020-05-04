@@ -1,6 +1,5 @@
 import os
 import re
-import js2py
 import random
 
 
